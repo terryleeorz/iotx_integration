@@ -1,0 +1,2 @@
+# iotx_integration
+接入阿里云iot平台免登及获取用户信息对接示例
